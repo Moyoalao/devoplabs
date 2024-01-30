@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is cooked 
+another line
+=======
+This is cooked
+another line 
+>>>>>>> 80d61d7 ( From Repo B)
